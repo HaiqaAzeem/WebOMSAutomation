@@ -1,0 +1,79 @@
+{
+
+
+	"LoginUsername": {
+		"ControlType": "Textbox",
+		"IdentifierType": "Name",
+		"Identifier": "email"
+	},
+	"LoginPassword": {
+		"ControlType": "Textbox",
+		"IdentifierType": "Name",
+		"Identifier": "password"
+	},
+	"LoginButton": {
+		"ControlType": "Button",
+		"IdentifierType": "XPath",
+		"Identifier": "//div[@class='tab-content tab-content--active']//form[@method='POST']//div//button[@type='submit'][normalize-space()='Login']"
+	},
+	"VerificationCode": {
+		"ControlType": "Textbox",
+		"IdentifierType": "Name",
+		"Identifier": "code"
+	},
+	"SubmitButton": {
+		"ControlType": "Button",
+		"IdentifierType": "Name",
+		"Identifier": "myButton"
+	},
+	"ProceedButton": {
+		"ControlType": "Button",
+		"IdentifierType": "XPath",
+		"Identifier": "//input[@value='Proceed']"
+
+	},
+	"Validate": {
+		"ControlType": "Label",
+		"IdentifierType": "XPath",
+		"Identifier": "/html/body/div[2]/div[2]/div/div/div[2]/div/div/h1"
+
+	},
+	"ValidateTFA": {
+		"ControlType": "Label",
+		"IdentifierType": "XPath",
+		"Identifier": "//h1[@class='text-center']"
+
+	}
+
+
+
+
+
+	//},
+
+	//	"BankingInstructionGrid": {
+	//		"ControlType": "Grid",
+	//		"IdentifierType": "XPath",
+	//		"Identifier": "/html/body/div[3]/div[2]/div/div/div[2]/div[2]/div[1]/div/div[1]/div[2]/div[1]/div[2]/div/div[6]/div/div/div[1]/div/table"
+	//	},
+
+	//	"BankingInstructionGridHeader": {
+	//		"ControlType": "GridHeader",
+	//		"IdentifierType": "XPath",
+	//		"Identifier": "/html/body/div[3]/div[2]/div/div/div[2]/div[2]/div[1]/div/div[1]/div[2]/div[1]/div[2]/div/div[5]/div/table"
+	//	},
+
+	//"BankingInstructionGridHeaderContextDiv": {
+	//		"ControlType": "ComboList",
+	//		"IdentifierType": "ClassName",
+	//		"Identifier": "dx-submenu"
+	//	},
+
+	//	"BankingInstructionGridHeaderContexDivElement": {
+	//		"ControlType": "NoElement",
+	//		"IdentifierType": "ClassName",
+	//		"Identifier": "dx-menu-item-text"
+	//	},
+
+
+}

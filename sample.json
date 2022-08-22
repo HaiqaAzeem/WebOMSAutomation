@@ -1,0 +1,87 @@
+{
+  "username": {
+    "IdentifierType": "XPath",
+    "Identifier": "//INPUT[@id='email']/",
+    "ControlType": "Textbox"
+  },
+  "searchbox": {
+    "IdentifierType": "ClassName",
+    "Identifier": "gLFyf gsfi",
+    "ControlType": "Combobox"
+  },
+  "gmail": {
+    "IdentifierType": "ClassName",
+    "Identifier": "gb_d",
+    "ControlType": "Label"
+  },
+  "Img": {
+    "IdentifierType": "ClassName",
+    "Identifier": "gb_d",
+    "ControlType": "Label"
+  },
+  "lucky": {
+    "IdentifierType": "ClassName",
+    "Identifier": "RNmpXc",
+    "ControlType": "Button"
+  },
+  "image": {
+    "IdentifierType": "ClassName",
+    "Identifier": "gb_d",
+    "ControlType": "Label"
+  },
+  "Google": {
+    "IdentifierType": "ClassName",
+    "Identifier": "lnXdpd",
+    "ControlType": "Label"
+  },
+  "Youtubesearch": {
+    "IdentifierType": "ClassName",
+    "Identifier": "ytd-searchbox",
+    "ControlType": "Combobox"
+  },
+  "Notif": {
+    "IdentifierType": "ClassName",
+    "Identifier": "yt-spec-icon-badge-shape__badge",
+    "ControlType": "Button"
+  },
+  "wiki": {
+    "IdentifierType": "ClassName",
+    "Identifier": "w7Nvcd std YbqTTb F0azHf",
+    "ControlType": "TextBox"
+  },
+  "fbuser": {
+    "IdentifierType": "ClassName",
+    "Identifier": "inputtext _55r1 _6luy",
+    "ControlType": "TextBox"
+  },
+  "wikii": {
+    "IdentifierType": "ClassName",
+    "Identifier": "LC20lb MBeuO DKV0Md",
+    "ControlType": "Label"
+  },
+  "Insta": {
+    "IdentifierType": "ClassName",
+    "Identifier": "_2hvTZ pexuQ zyHYP",
+    "ControlType": "TextBox"
+  },
+  "lioh": {
+    "IdentifierType": "ClassName",
+    "Identifier": "login-btn-one",
+    "ControlType": "Button"
+  },
+  "Pass": {
+    "IdentifierType": "ClassName",
+    "Identifier": "form-control text-box",
+    "ControlType": "Textbox"
+  },
+  "Loginbtn": {
+    "IdentifierType": "ClassName",
+    "Identifier": "login-btn-one",
+    "ControlType": "Button"
+  },
+  "User": {
+    "IdentifierType": "ClassName",
+    "Identifier": "form-control text-box",
+    "ControlType": "Textbox"
+  }
+}
